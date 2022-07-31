@@ -1,0 +1,23 @@
+/******************************************************************************
+
+B4x
+
+*******************************************************************************/
+public class Main
+{
+	public static void main(String[] args) {
+		
+		String MyName = "Bader";
+		
+		int age = 17;
+		
+		
+		System.out.print("Hi, My Name is ");
+
+		
+		System.out.print(MyName);
+	
+	    System.out.print(" and I am " + age +" Years old :) ");;
+	}
+
+}
